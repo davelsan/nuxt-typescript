@@ -38,7 +38,7 @@ For a detailed explanation on how things work, check out [Nuxt.js docs](https://
 ```shell
 create-nuxt-app v2.15.0
 ✨ Generating Nuxt.js project in nuxt-typescript
-? Project name: nuxt-test
+? Project name: nuxt-typescript
 ? Project description: Nuxt.js + Typescript
 ? Author name: David Velasco
 ? Choose programming language: TypeScript
